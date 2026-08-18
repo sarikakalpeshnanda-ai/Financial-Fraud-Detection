@@ -33,17 +33,17 @@ This project focuses on analyzing transaction data to identify patterns indicati
 
 # Screenshots
 
-## 1. Top 5 User's with the highest total spending
+1. Top 5 User's with the highest total spending
 
 ![alt text](screenshots/top-5-user.png)
 
-## 2. Distribution of transactions across countries
+2. Distribution of transactions across countries
 ![alt text](screenshots/transactions-across-countries.png)
 
-## 3. Check for users with high internal risk scores and their transaction counts
+3. Check for users with high internal risk scores and their transaction counts
 ![alt text](screenshots/transaction-counts.png)
 
-## 4. 03_ADVANCED_QUERIES: The Fraud Detection Engine
+4. 03_ADVANCED_QUERIES: The Fraud Detection Engine
 -- Using CTEs, Window Functions, and Time-based analysis
 
 -- 🚩 DETECTOR 1: Rapid-Fire Failed Payments (Card Testing)
