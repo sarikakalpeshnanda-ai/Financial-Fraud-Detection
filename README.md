@@ -30,3 +30,9 @@ This project focuses on analyzing transaction data to identify patterns indicati
 1. Run `schema.sql` to create the tables.
 2. Run `seed_data.sql` to populate the database.
 3. Execute the queries in the `queries/` folder sequentially.
+
+# Screenshots
+
+## 1. Top 5 User's with the highest total spending
+
+![alt text](screenshots/top-5-user.png)
